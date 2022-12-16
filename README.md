@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend developer from Paris</h3>
 
 - 🔭 I’m currently working on [my project called Meetball](https://www.meet-ball.com)
 
