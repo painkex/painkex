@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/joel-irmiahu-a3b69025a/**
 
-- ⚡ Fun fact **I love pancakes.**
+- 🥞 Fun fact **I love pancakes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
